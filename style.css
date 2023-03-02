@@ -1,0 +1,32 @@
+
+
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.b1{
+  display: flex;
+  background: green;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+}
+.b2{
+  display: flex;
+  background: red;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+}
+.b3{
+  display: flex;
+  background: pink;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+}
